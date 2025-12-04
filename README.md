@@ -27,16 +27,6 @@ A deep learning project that classifies gender from facial images using a custom
 | **Model Size** | 1.62 MB |
 | **Parameters** | 423,873 |
 
-## Usage
-
-### Training
-Open `gender_detection_model.ipynb` in Google Colab with GPU and run all cells.
-
-### Real-Time Detection
-```bash
-python real_time.py
-```
-Press `q` to quit, `s` to save frame.
 
 ## Model Architecture
 
